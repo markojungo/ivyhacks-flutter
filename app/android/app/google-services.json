@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786030276950",
+    "firebase_url": "https://ivyhacks-backend.firebaseio.com",
+    "project_id": "ivyhacks-backend",
+    "storage_bucket": "ivyhacks-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786030276950:android:414da9e4bc34648939a6f7",
+        "android_client_info": {
+          "package_name": "com.ivyhacks_flutter.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786030276950-ahskqij5m2jrk1u6iqi9d9h5vfpo6pf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-rjZW5GdQWY5CpiEtfL-o_wxcdDg0afE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786030276950-ahskqij5m2jrk1u6iqi9d9h5vfpo6pf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
